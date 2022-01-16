@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SmartZoneTest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="title">title</string>
+    <string name="no_data">\"Sorry No Data Exist ... \"</string>
+    <string name="tesla_news">Tesla News</string>
+    <string name="search">Search...</string>
+    <string name="add_data">Add Data To Room Database</string>
+    <string name="time">2022-01-14T23:00:00Z</string>
+    <string name="title_dummy">The Roads To Hyperbitcoinization: Describing The ‘Transition Agents’ Bringing Us Financial Freedom</string>
+    <string name="dummy" translatable="false">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</string>
+    <string name="author">author</string>
+    <string name="no_data_founded">No Data Founded ...</string>
+    <string name="local_database_news">Local Database News</string>
+    <string name="delete">Delete</string>
+    <string name="data_added">Data Is Added To Database</string>
+
+</resources>

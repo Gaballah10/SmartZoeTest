@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item >
+        <shape android:shape="rectangle">
+            <solid android:color="#000000"/>
+        </shape>
+    </item>
+
+    <item android:top="100dp" android:left="100dp" android:right="100dp" android:bottom="100dp" android:width="200dp" android:height="170dp">
+        <bitmap android:src="@drawable/question_mark"/>
+    </item>
+</layer-list>
